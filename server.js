@@ -41,3 +41,6 @@ const host = process.env.HOST
 app.listen(port, () => {
   console.log(`app listening on ${host}:${port}`)
 })
+
+
+/* https://cse340-w1-learning-activity-ejs-templates.onrender.com/ */
