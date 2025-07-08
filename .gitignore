@@ -14,3 +14,7 @@ node_modules
 
 # .DS_Store is only for Mac users
 **/.DS_Store
+
+# READMI is ignored because it is not 
+# necessary for the project for now.
+README.md
